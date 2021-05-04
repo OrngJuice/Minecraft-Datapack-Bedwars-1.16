@@ -1,0 +1,1 @@
+tellraw @a {"text": "Bedwars POG", "color": "gold"}
