@@ -1,0 +1,1 @@
+execute as @s if block ~ ~-1 ~ diamond_block run kill @e[sort=nearest,type=armor_stand,limit=1,tag=diaspawner,distance=..2]

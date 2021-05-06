@@ -1,0 +1,1 @@
+execute as @s if block ~ ~-1 ~ minecraft:diamond_block align xz positioned ~0.5 ~0.1 ~0.5 run summon armor_stand ~ ~1 ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,Marker:1b,Invisible:1b,Tags:["diaspawner"],ArmorItems:[{},{},{},{id:"minecraft:diamond_block",Count:1b}]}

@@ -1,3 +1,4 @@
+#sets all the gamerules
 gamerule announceAdvancements false
 gamerule commandBlockOutput true
 gamerule disableElytraMovementCheck false

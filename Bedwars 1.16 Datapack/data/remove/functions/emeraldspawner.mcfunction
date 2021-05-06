@@ -1,0 +1,1 @@
+execute as @s if block ~ ~-1 ~ emerald_block run kill @e[sort=nearest,type=armor_stand,limit=1,tag=emspawner,distance=..2]
