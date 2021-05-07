@@ -2,7 +2,8 @@
 
 #scoreboards
 scoreboard objectives add clockseconds dummy
-scoreboard players set $clock clockseconds 0
+scoreboard players set $diaSpawner clockseconds 0
+scoreboard players set $goldForge clockseconds 0
 
 scoreboard objectives add randomStuff dummy
 

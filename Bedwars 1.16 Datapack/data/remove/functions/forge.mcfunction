@@ -1,0 +1,1 @@
+execute as @s unless block ~ ~-1 ~ cave_air unless block ~ ~-1 ~ void_air unless block ~ ~-1 ~ air run kill @e[sort=nearest,type=armor_stand,limit=1,tag=forge,distance=..2]

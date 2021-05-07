@@ -1,0 +1,5 @@
+Set Diamond Spawner : /function set:diamondspawner
+Set Emerald Spawner : /function set:emeraldspawner
+Set Forge : /function set:forge
+Remove Diamond Spawner : /function remove:diamondspawner
+Remove Emerald Spawner : /function remove:emeraldspawner
